@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MY LAPTOP\\Desktop\\hospital\\hospital.csproj": {}
+    "C:\\Users\\OWNER\\Desktop\\HospitalRep\\hospital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MY LAPTOP\\Desktop\\hospital\\hospital.csproj": {
+    "C:\\Users\\OWNER\\Desktop\\HospitalRep\\hospital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MY LAPTOP\\Desktop\\hospital\\hospital.csproj",
+        "projectUniqueName": "C:\\Users\\OWNER\\Desktop\\HospitalRep\\hospital.csproj",
         "projectName": "hospital",
-        "projectPath": "C:\\Users\\MY LAPTOP\\Desktop\\hospital\\hospital.csproj",
-        "packagesPath": "C:\\Users\\MY LAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MY LAPTOP\\Desktop\\hospital\\obj\\",
+        "projectPath": "C:\\Users\\OWNER\\Desktop\\HospitalRep\\hospital.csproj",
+        "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OWNER\\Desktop\\HospitalRep\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MY LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
